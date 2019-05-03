@@ -15,7 +15,9 @@ console.log('hello')
 }
 
 function sayHiToGrandma(string){
-string.toLowerCase() === string 
+var lowercase = 'hello!'
+ 
+string.toLowerCase() === string // true
 
 
 }
