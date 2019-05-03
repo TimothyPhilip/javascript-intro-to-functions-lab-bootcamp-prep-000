@@ -15,5 +15,6 @@ console.log('hello')
 }
 
 function sayHiToGrandma(string){
-  if ()
 }
+
+if (string)
