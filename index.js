@@ -15,13 +15,7 @@ console.log('hello')
 }
 
 function sayHiToGrandma(string){
-return 'I can\'t hear you!'
- 
-string.toLowerCase() === string
+return 'I can\'t hear you!' 
+if string.toLowerCase() === string
 }
 
-function sayHiToGrandma(string){
-return 'YES INDEED!'
- 
-string.toUpperCase() === string
-}
