@@ -15,6 +15,6 @@ console.log('hello')
 }
 
 function sayHiToGrandma(string){
-return string.toLowerCase() === string
+  if string.toLowerCase() === string
 }
 
