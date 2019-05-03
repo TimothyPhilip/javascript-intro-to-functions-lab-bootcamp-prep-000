@@ -20,3 +20,8 @@ return 'I can\'t hear you!'
 string.toLowerCase() === string
 }
 
+function sayHiToGrandma(string){
+return 'YES INDEED!'
+ 
+string.toUpperCase() === string
+}
